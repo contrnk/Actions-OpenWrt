@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/contrnk/openwrt-ubnt-m2-18.06
+  REPO_URL: https://github.com/contrnk/openwrt-23.05.3
   REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
